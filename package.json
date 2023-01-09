@@ -2,7 +2,7 @@
   "name": "darkly",
   "displayName": "Darkly Theme",
   "description": "A VS Code dark theme that emphasizes readability, with dark backgrounds and pastel colors",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "publisher": "YoussefMoussaoui",
   "repository": {
     "type": "git",

@@ -1,6 +1,7 @@
 {
   "name": "Darkly Theme",
   "type": "dark",
+  "semanticHighlighting": true,
   "colors": {
     "activityBar.activeBorder": "#f9826c",
     "activityBar.background": "#1d1f21",

@@ -37,7 +37,7 @@
     "editor.findMatchHighlightBackground": "#ffd33d22",
     "editor.focusedStackFrameHighlightBackground": "#2b6a3033",
     "editor.foldBackground": "#58606915",
-    "editor.foreground": "#e1e4e8",
+    "editor.foreground": "#cccccc",
     "editor.inactiveSelectionBackground": "#3392ff22",
     "editor.lineHighlightBackground": "#2b3036",
     "editor.linkedEditingBackground": "#3392ff22",
@@ -202,7 +202,7 @@
         "variable.language"
       ],
       "settings": {
-        "foreground": "#79B8FF"
+        "foreground": "#cccccc"
       }
     },
     {
@@ -214,7 +214,7 @@
     {
       "scope": "variable.parameter.function",
       "settings": {
-        "foreground": "#E1E4E8"
+        "foreground": "#cccccc"
       }
     },
     {
@@ -242,7 +242,7 @@
         "storage.type.java"
       ],
       "settings": {
-        "foreground": "#E1E4E8"
+        "foreground": "#cccccc"
       }
     },
     {
@@ -276,7 +276,7 @@
     {
       "scope": "variable.other",
       "settings": {
-        "foreground": "#E1E4E8"
+        "foreground": "#cccccc"
       }
     },
     {
@@ -391,14 +391,14 @@
     {
       "scope": "markup.italic",
       "settings": {
-        "foreground": "#E1E4E8",
+        "foreground": "#cccccc",
         "fontStyle": "italic"
       }
     },
     {
       "scope": "markup.bold",
       "settings": {
-        "foreground": "#E1E4E8",
+        "foreground": "#cccccc",
         "fontStyle": "bold"
       }
     },
@@ -686,7 +686,7 @@
     {
       "scope": ["variable.parameter"],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#cccccc"
       }
     },
     {
@@ -1354,7 +1354,7 @@
         "variable.other.readwrite.tsx"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#cccccc"
       }
     },
     {
@@ -1644,7 +1644,7 @@
         "meta.definition.property.tsx variable"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#cccccc"
       }
     },
     {
@@ -1655,7 +1655,7 @@
         "meta.type.parameters.tsx support.type"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#6699cc"
       }
     },
     {

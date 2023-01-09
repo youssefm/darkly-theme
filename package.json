@@ -14,7 +14,7 @@
       {
         "label": "Darkly Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Darkly Theme-color-theme.json"
+        "path": "./themes/darkly-color-theme.json"
       }
     ]
   }

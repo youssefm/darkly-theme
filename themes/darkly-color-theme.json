@@ -632,7 +632,7 @@
     {
       "scope": ["storage.modifier.package", "storage.modifier.import"],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -698,7 +698,7 @@
     {
       "scope": ["string > source", "string embedded"],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -735,7 +735,7 @@
         "punctuation.definition.array"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -774,7 +774,7 @@
         "punctuation.section.inner-class"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -846,13 +846,13 @@
     {
       "scope": ["meta.class.body"],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
       "scope": ["meta.method-call", "meta.method"],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -882,13 +882,13 @@
     {
       "scope": ["meta.separator"],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
       "scope": ["meta.tag"],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -898,7 +898,7 @@
     {
       "scope": ["none"],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -999,13 +999,13 @@
         "source.css property-value.support"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
       "scope": ["source.elixir source.embedded.source"],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1133,7 +1133,7 @@
     {
       "scope": ["source.java-properties meta.key-pair > punctuation"],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1240,13 +1240,13 @@
     {
       "scope": ["ng.interpolation bracket"],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
       "scope": ["ng.pipe", "ng.operator"],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1273,7 +1273,7 @@
         "ng.attribute-with-value string.end"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1295,13 +1295,13 @@
     {
       "scope": "customrule",
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
       "scope": "support.type.property-name",
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1388,7 +1388,7 @@
         "source.tsx punctuation.definition.typeparameters"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1398,7 +1398,7 @@
         "source.tsx punctuation.definition.block"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1408,7 +1408,7 @@
         "source.tsx punctuation.separator.comma"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1464,7 +1464,7 @@
         "meta.brace.square.tsx"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1474,7 +1474,7 @@
         "source.tsx punctuation.accessor"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1484,7 +1484,7 @@
         "punctuation.terminator.statement.tsx"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1540,7 +1540,7 @@
         "punctuation.separator.parameter.tsx "
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1569,7 +1569,7 @@
         "keyword.control.as.tsx"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1621,7 +1621,7 @@
         "source.tsx meta.import-equals.external.tsx keyword.operator"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1633,7 +1633,7 @@
     {
       "scope": "meta.class.js,meta.class.ts,meta.class.jsx,meta.class.tsx",
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1666,7 +1666,7 @@
         "source.tsx meta.tag.tsx keyword.operator"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1677,7 +1677,7 @@
         "meta.tag.tsx punctuation.section.embedded"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1766,7 +1766,7 @@
     {
       "scope": ["variable.other.object.js", "variable.other.object.ts"],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1778,7 +1778,7 @@
     {
       "scope": "source.python constant.other",
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1808,13 +1808,13 @@
     {
       "scope": "punctuation.separator.annotation.python",
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
       "scope": "punctuation.separator.parameters.python",
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1826,25 +1826,25 @@
     {
       "scope": "source.cs keyword.operator",
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
       "scope": "variable.other.readwrite.cs",
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
       "scope": "variable.other.object.cs",
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
       "scope": "variable.other.object.property.cs",
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1874,7 +1874,7 @@
     {
       "scope": "storage.modifier.lifetime.rust",
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1904,7 +1904,7 @@
     {
       "scope": "markup.raw.block.markdown",
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1916,7 +1916,7 @@
     {
       "scope": "support.constant.property-value.css",
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1940,7 +1940,7 @@
     {
       "scope": "meta.property-list.scss punctuation.separator.key-value.scss",
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1964,7 +1964,7 @@
     {
       "scope": "markup.heading.setext",
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
@@ -1999,7 +1999,7 @@
         "punctuation.definition.metadata.markdown"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#CCCCCC"
       }
     },
     {
